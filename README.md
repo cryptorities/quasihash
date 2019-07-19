@@ -1,0 +1,2 @@
+# quasihash
+Quasigroup  string transformations
